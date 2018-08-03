@@ -1,0 +1,35 @@
+logs
+project/project/
+project/target/
+tmp
+.history
+/dist
+/.idea
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
+media
+.DS_Store
+.vagrant
+default-create.sql
+default-drop.sql
+project/.idea
+target
+Vagrantfile
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/target/
+/.idea/
+/.g8/
+conf/evolutions/
+/.gradle/
